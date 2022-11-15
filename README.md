@@ -1,9 +1,9 @@
 # SelfIR (NeurIPS 2022)
 
-PyTorch implementation of [**Self-Supervised Image Restoration with Blurry and Noisy Pairs**](https://arxiv.org/) 
+PyTorch implementation of [**Self-Supervised Image Restoration with Blurry and Noisy Pairs**](https://arxiv.org/abs/2211.07317) 
 
-[Paper (arXiv)](https://arxiv.org/) &nbsp;  &nbsp; &nbsp; 
-[Video](https://arxiv.org/)
+[**Paper (arXiv)**](https://arxiv.org/abs/2211.07317) &nbsp;  &nbsp; &nbsp; 
+[**Video**](https://arxiv.org/)
 
 ## 1. Framework
 
@@ -45,9 +45,9 @@ PyTorch implementation of [**Self-Supervised Image Restoration with Blurry and N
         |        ... 
         │   
         └───test_noise_poisson5_50
-        │        GOPR0372_07_00
-        │        GOPR0372_07_01
-        |        ... 
+                 GOPR0372_07_00
+                 GOPR0372_07_01
+                 ... 
         ```
    
 
