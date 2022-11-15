@@ -2,7 +2,7 @@
 
 PyTorch implementation of [**Self-Supervised Image Restoration with Blurry and Noisy Pairs**](https://arxiv.org/abs/2211.07317) 
 
-[**Paper (arXiv)**](https://arxiv.org/abs/2211.07317) &nbsp;  &nbsp; &nbsp; 
+[**Paper (arXiv)**](https://arxiv.org/abs/2211.07317) &nbsp; | &nbsp; 
 [**Video**](https://www.bilibili.com/video/BV1v8411j7XZ/?spm_id_from=333.337.search-card.all.click)
 
 ## 1. Framework
