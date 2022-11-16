@@ -4,7 +4,7 @@ PyTorch implementation of [**Self-Supervised Image Restoration with Blurry and N
 
 [**OpenReview**](https://openreview.net/forum?id=lkrnoLxX1Do) &nbsp; | &nbsp; 
 [**arXiv**](https://arxiv.org/abs/2211.07317) &nbsp; | &nbsp; 
-[**Video**](https://www.bilibili.com/video/BV1v8411j7XZ/?spm_id_from=333.337.search-card.all.click)
+[**video**](https://www.bilibili.com/video/BV1v8411j7XZ/?spm_id_from=333.337.search-card.all.click)
 
 ## 1. Framework
 
