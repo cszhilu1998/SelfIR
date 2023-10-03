@@ -11,7 +11,7 @@ PyTorch implementation of [**Self-Supervised Image Restoration with Blurry and N
 <p align="center"><img src="overview.png" width="95%"></p>
 <p align="center">Overview of our proposed SelfIR framework.</p>
 
-- (a) Training phase of SelfIR. Sub-sampled blurry image $\mathit{g}_1(\mathbf{I}_\mathcal{B})$ and noisy image $\mathit{g}_1(\mathbf{I}_\mathcal{N})$ are taken as the inputs. $\mathit{g}_2(\mathbf{I}_\mathcal{N})$ is used for calculating the reconstruction loss $\mathcal{L}_\mathit{rec}$ and regularization loss $\mathcal{L}_\mathit{reg}$, while $\mathit{g}_1(\mathbf{I}_\mathcal{B})$ is taken for calculating auxiliary loss $\mathcal{L}_\mathit{aux}$.
+- (a) Training phase of SelfIR. Sub-sampled blurry image $g_1(I_B)$ and noisy image $g_1(I_N)$ are taken as the inputs. $g_2(I_N)$ is used for calculating the reconstruction loss $\mathcal{L}_\mathit{rec}$ and regularization loss $\mathcal{L}_\mathit{reg}$, while $g_1(I_B)$ is taken for calculating auxiliary loss $\mathcal{L}_\mathit{aux}$.
 - (b) Example of neighbor sub-sampler. In each $2\times2$ cell, two pixels are randomly selected for respectively composing the neighboring sub-images.
 - (c) Testing phase of SelfIR. The blurry and noisy images can be directly taken for restoration.
 
